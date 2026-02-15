@@ -76,6 +76,8 @@ These tools are built to support the **Open Voice OS** ecosystem and the broader
 
 ## 📜 Credits & Acknowledgments
 
+> **DISCLAIMER**: Generative AI was used to convert various python scripts into notebook format
+
 * **Author:** [TigreGotico](https://tigregotico.pt)
 * **Funding:** Funded through the [NGI0 Commons Fund](https://nlnet.nl/commonsfund) via [NLnet](https://nlnet.nl), with support from the European Commission's Next Generation Internet programme (grant No 101135429).
 * **Core Technologies:**
